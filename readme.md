@@ -1,4 +1,4 @@
-# Random Motivational Quote Generator. 
+# Random Motivational Quote Generator 
 
 ## Description 
 
