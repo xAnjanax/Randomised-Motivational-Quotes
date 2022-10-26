@@ -11,7 +11,7 @@ https://xanjanax.github.io/Randomised-Motivational-Quotes/
 ### Title Screen: 
 <img src="Screenshot_Random Quotes(1).png"> 
 
-### Quotes
+### Quotes: 
 <img src="Screenshot_Random Quotes(2).png"> 
 
 <img src="Screenshot_Random Quotes(3).png"> 
